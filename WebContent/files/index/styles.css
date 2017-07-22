@@ -1,0 +1,469 @@
+body {
+  margin:0px;
+  background-image:url('../../images/index/bg.jpg');
+  background-position:center bottom;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:contain;
+  position:relative;
+  left:-0px;
+  width:1065px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u882_img {
+  position:absolute;
+  left:10px;
+  top:0px;
+  width:156px;
+  height:162px;
+}
+#u882 {
+  position:absolute;
+  left:0px;
+  top:-10px;
+  width:170px;
+  height:162px;
+}
+#u883 {
+  position:absolute;
+  left:2px;
+  top:73px;
+  width:152px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u884_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:156px;
+  height:2px;
+}
+#u884 {
+  position:absolute;
+  left:0px;
+  top:152px;
+  width:156px;
+  height:2px;
+}
+#u885 {
+  position:absolute;
+  left:2px;
+  top:-7px;
+  width:152px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u886_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:8px;
+  height:162px;
+}
+#u886 {
+  position:absolute;
+  left:156px;
+  top:-10px;
+  width:8px;
+  height:162px;
+}
+#u887 {
+  position:absolute;
+  left:2px;
+  top:73px;
+  width:4px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u888_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:8px;
+  height:2px;
+}
+#u888 {
+  position:absolute;
+  left:156px;
+  top:152px;
+  width:8px;
+  height:2px;
+}
+#u889 {
+  position:absolute;
+  left:2px;
+  top:-7px;
+  width:4px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u890 {
+  position:absolute;
+  left:164px;
+  top:-10px;
+  width:906px;
+  height:169px;
+}
+#u891_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:901px;
+  height:164px;
+}
+#u891 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:901px;
+  height:164px;
+}
+#u892 {
+  position:absolute;
+  left:2px;
+  top:74px;
+  width:897px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u893_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(0, 117, 186, 1);
+  border:none;
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:5px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u893 {
+  position:absolute;
+  left:228px;
+  top:104px;
+  width:140px;
+  height:40px;
+}
+#u893_div.mouseOver {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(0, 117, 186, 1);
+  border:none;
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:5px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u893.mouseOver {
+}
+#u894 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:136px;
+  word-wrap:break-word;
+}
+#u895_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:901px;
+  height:94px;
+  background:inherit;
+  background-color:rgba(0, 117, 186, 1);
+  border:none;
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  font-family:'叶根友毛笔行书2.0版 Bold', '叶根友毛笔行书2.0版 常规', '叶根友毛笔行书2.0版';
+  font-weight:700;
+  font-style:normal;
+  font-size:50px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u895 {
+  position:absolute;
+  left:164px;
+  top:0px;
+  width:901px;
+  height:94px;
+  font-family:'叶根友毛笔行书2.0版 Bold', '叶根友毛笔行书2.0版 常规', '叶根友毛笔行书2.0版';
+  font-weight:700;
+  font-style:normal;
+  font-size:50px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u896 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:881px;
+  word-wrap:break-word;
+}
+#u897 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u898 {
+  position:absolute;
+  left:434px;
+  top:301px;
+  width:106px;
+  height:25px;
+  font-family:'叶根友毛笔行书2.0版 Bold', '叶根友毛笔行书2.0版 常规', '叶根友毛笔行书2.0版';
+  font-weight:700;
+  font-style:normal;
+  font-size:50px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u898_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:106px;
+  height:25px;
+  background-color:#CCCCCC;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u899_div {
+   position:absolute;
+  left:2px;
+  top:12px;
+  width:136px;
+  word-wrap:break-word;
+}
+#u899 {
+  position:absolute;
+  left:376px;
+  top:301px;
+  width:300px;
+  height:120px;
+  font-size:20px;
+  color:#000000;
+}
+#u900 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  word-wrap:break-word;
+}
+#u901_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(204, 204, 204, 1);
+  border:none;
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#000000;
+}
+#u901 {
+  position:absolute;
+  left:376px;
+  top:336px;
+  width:58px;
+  height:50px;
+  color:#000000;
+}
+#u902 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  word-wrap:break-word;
+}
+#u903 {
+  position:absolute;
+  left:434px;
+  top:336px;
+  width:106px;
+  height:25px;
+}
+#u903_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:106px;
+  height:25px;
+  background-color:#CCCCCC;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u904 {
+  position:absolute;
+  left:434px;
+  top:386px;
+  width:82px;
+  height:25px;
+}
+#u904_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:82px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u905_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(0, 117, 186, 1);
+  border:none;
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:5px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u905 {
+  position:absolute;
+  left:418px;
+  top:104px;
+  width:140px;
+  height:40px;
+}
+#u905_div.mouseOver {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(0, 117, 186, 1);
+  border:none;
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:5px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u905.mouseOver {
+}
+#u906 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:136px;
+  word-wrap:break-word;
+}
+#u907 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+.blue {  
+    color: #d9eef7;  
+    border: solid 1px #0076a3;  
+    background: #0095cd;  
+    background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));  
+    background: -moz-linear-gradient(top,  #00adee,  #0078a5);  
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#00adee', endColorstr='#0078a5');  
+}  
+.blue:hover {  
+    background: #007ead;  
+    background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));  
+    background: -moz-linear-gradient(top,  #0095cc,  #00678e);  
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#0095cc', endColorstr='#00678e');  
+}  
+.blue:active {  
+    color: #80bed6;  
+    background: -webkit-gradient(linear, left top, left bottom, from(#0078a5), to(#00adee));  
+    background: -moz-linear-gradient(top,  #0078a5,  #00adee);  
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#0078a5', endColorstr='#00adee');  
+} 
